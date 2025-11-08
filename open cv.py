@@ -1,3 +1,1 @@
-import cv2            # For image processing (main library)
-import numpy as np     # For numerical operations
-import matplotlib.pyplot as plt  # To display images
+
